@@ -1,4 +1,4 @@
 //aaaaa
-function(){
-	aaa
+function practic(){
+	var obj = document.getElementById(a);
 }
